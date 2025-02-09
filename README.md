@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/127b2e6a-9b05-49f7-b389-f932ac70e768)
+
+
+
 # Hex Game AI Heuristics Documentation
 
 ## Table of Contents
